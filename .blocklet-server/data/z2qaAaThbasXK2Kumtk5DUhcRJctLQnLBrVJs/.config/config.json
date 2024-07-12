@@ -1,0 +1,31 @@
+{
+  "env": {
+    "appId": "zNKkWTm1zPQNnJ9epMUrsuncCr92jh9jgqnU",
+    "appPid": "zNKkWTm1zPQNnJ9epMUrsuncCr92jh9jgqnU",
+    "appIds": ["zNKkWTm1zPQNnJ9epMUrsuncCr92jh9jgqnU"],
+    "appName": "demo",
+    "appDescription": "A Blocklet DAPP blocklet",
+    "appUrl": "https://bbqazqoh7bl63uukb2j4dfvpbz7yezw7ejndorh36yu.did.abtnet.io",
+    "languages": [
+      { "code": "en", "name": "English" },
+      { "code": "zh", "name": "简体中文" }
+    ],
+    "preferences": {},
+    "serverVersion": "1.16.28",
+    "initialized": true
+  },
+  "components": [
+    {
+      "title": "demo",
+      "did": "z2qaAaThbasXK2Kumtk5DUhcRJctLQnLBrVJs",
+      "name": "z2qaAaThbasXK2Kumtk5DUhcRJctLQnLBrVJs",
+      "version": "0.1.0",
+      "mountPoint": "/",
+      "status": 6,
+      "port": 57810,
+      "resources": [],
+      "resourcesV2": [],
+      "group": "dapp"
+    }
+  ]
+}
