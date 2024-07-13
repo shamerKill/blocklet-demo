@@ -30,6 +30,8 @@ jobs:
         with:
           skip-upload: true
           skip-deploy: true
+          skip-release: true
+          skip-readme: true
           bundle-command: yarn bundle
           # store-endpoint: ${{ secrets.STORE_ENDPOINT }}
           # store-access-token: ${{ secrets.STORE_ACCESS_TOKEN }}
